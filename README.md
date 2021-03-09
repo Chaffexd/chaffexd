@@ -1,6 +1,6 @@
 ### Hi there 👋, Shane Chaffe
 #### Becoming a Front End Developer
-![Becoming a Front End Developer](https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1366&q=80)
+![Becoming a Front End Developer]
 
 I'm Shane from London, UK and I'm currently a Genius at Apple. I really enjoy learning about various programming languages and am on my way to becoming a Front End Developer. 
 
