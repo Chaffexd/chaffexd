@@ -1,15 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Shane Chaffe
+#### Becoming a Front End Developer
+![Becoming a Front End Developer](https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1366&q=80)
 
-<!--
-**Chaffexd/chaffexd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shane from London, UK and I'm currently a Genius at Apple. I really enjoy learning about various programming languages and am on my way to becoming a Front End Developer. 
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / JavaScript
 
-- 🔭 I’m currently working on becoming a Front End Developer.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 👯 I’m looking to collaborate on any kind of project to learn more!
-- 🤔 I’m looking for help with nothing at the moment.
-- 💬 Ask me about any tech related queries.
-- 📫 How to reach me: shanechaffe@gmail.com
-- 😄 Pronouns: He/His 
--->
+- 🔭 I’m currently working on my own projects. 
+- 🌱 I’m currently learning HTML / CSS / JS 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Chaffexd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Shane Chaffe/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/chaffexd/)  
+
