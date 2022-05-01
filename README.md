@@ -1,5 +1,5 @@
 ## Hi there, I'm Shane Chaffe 👋
-### Becoming a Front End Developer
+### 
 
 I'm Shane from London, UK and I'm currently a Techincal Application Support Engineer at OneTrust. My passion is creating projects using Python.
 
