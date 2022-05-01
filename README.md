@@ -1,10 +1,10 @@
 ## Hi there, I'm Shane Chaffe 👋
 ### Becoming a Front End Developer
 
-I'm Shane from London, UK and I'm currently a Genius at Apple. I really enjoy learning about various programming languages and I'm on my way to becoming a Front End Developer. 
+I'm Shane from London, UK and I'm currently a Techincal Application Support Engineer at OneTrust. My passion is creating projects using Python.
 
 Skills: 
-HTML / CSS / Bootstrap / JavaScript
+HTML / CSS / Bootstrap / Python
 
 - 🔭 I’m currently working on my own projects. 
 - 🌱 I’m currently learning HTML / CSS / JS 
