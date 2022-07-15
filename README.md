@@ -1,10 +1,13 @@
 ## Hi there, I'm Shane Chaffe 👋
 ### 
 
-I'm Shane from London, UK and I'm currently a Techincal Application Support Engineer at OneTrust. My passion is creating projects using Python.
+I'm Shane from London, UK and I'm currently a Techincal Application Support Engineer at OneTrust. My passion is creating projects using JavaScript and it's frameworks.
+
+Currently working on:
+My own Projects to boost my knowledge 🚀
 
 Skills: 
-HTML / CSS / Bootstrap / Python
+HTML / CSS / JavaScript / Bootstrap / Python
 
 - 🔭 I’m currently working on my own projects. 
 - 🌱 I’m currently learning HTML / CSS / JS / Python
